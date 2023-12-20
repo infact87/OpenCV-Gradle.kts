@@ -1,1 +1,1 @@
-# OpenCV-KTS-Gradle
+# OpenCV-Gradle.kts
